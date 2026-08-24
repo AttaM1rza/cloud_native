@@ -11,6 +11,6 @@ variable "app_name" {
 # Bump this to deploy a new version.
 variable "image_tag" {
   type    = string
-  default = "v1"
+  default = "v1.1"
 }
 
